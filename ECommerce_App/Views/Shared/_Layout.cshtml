@@ -23,7 +23,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                    <ul class="navbar-nav me-auto">
                         <li class="nav-item">
                             <a class="nav-link" asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
@@ -49,6 +49,7 @@
                             </ul>
                         </li>
                     </ul>
+                    <partial name="_LoginPartial" />
                 </div>
             </div>
         </nav>
@@ -61,7 +62,7 @@
     </div>
 
     <footer class="border-top footer text-muted text-center bg-primary">
-        <div class="container">
+        <div class="container text-light">
             &copy; 2023 - E-Commerce_App - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
@@ -70,6 +71,8 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
     @*DataTable Link*@
     <script src="//cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js" asp-append-version="true"></script>
+    @*Sweet Alert 2*@
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

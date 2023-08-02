@@ -1,9 +1,11 @@
 ﻿using ECommerce_App.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ECommerce_App.DataAccess
 {
-    public class ApplicationDbContext:DbContext
+    public class ApplicationDbContext:IdentityDbContext<IdentityUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options){}
         public virtual DbSet<Category> Categories { get; set; }
@@ -11,6 +13,9 @@ namespace ECommerce_App.DataAccess
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //IdentityDbContext Part
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Category>().HasData(
                 new Category { Id = 1, Name = "Action", DisplayOrder = 2 },
                 new Category { Id = 2, Name = "SciFi", DisplayOrder = 6 },

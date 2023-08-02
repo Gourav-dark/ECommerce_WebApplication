@@ -260,3 +260,11 @@ D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug
 D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\obj\Debug\net7.0\ECommerce_App.MvcApplicationPartsAssemblyInfo.cs
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
