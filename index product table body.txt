@@ -1,0 +1,26 @@
+<tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td>@obj.Title</td>
+                        @*<td>@obj.Description</td>*@
+                        <td>@obj.ISBN</td>
+                        <td>@obj.Author</td>
+                        <td>@obj.Category.Name</td>
+                        @*<td>@obj.ListPrice</td>
+                        <td>@obj.Price</td>
+                        <td>@obj.Price50</td>
+                        <td>@obj.Price100</td>*@
+                        <td>
+                            <div class="w-100 btn-group text-center" role="group">
+                                <a asp-controller="Product" asp-action="Upsert" asp-route-Id="@obj.Id" class="btn btn-primary mx-2">
+                                    <i class="bi bi-pencil-square"></i>Edit
+                                </a>
+                                <a asp-controller="Product" asp-action="Delete" asp-route-Id="@obj.Id" class="btn btn-danger mx-2">
+                                    <i class="bi bi-trash-fill"></i>Delete
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>

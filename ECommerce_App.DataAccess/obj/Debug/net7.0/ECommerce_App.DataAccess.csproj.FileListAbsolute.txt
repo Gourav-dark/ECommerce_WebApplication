@@ -1,0 +1,17 @@
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\bin\Debug\net7.0\ECommerce_App.DataAccess.deps.json
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\bin\Debug\net7.0\ECommerce_App.DataAccess.runtimeconfig.json
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\bin\Debug\net7.0\ECommerce_App.DataAccess.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\bin\Debug\net7.0\ECommerce_App.DataAccess.pdb
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\bin\Debug\net7.0\ECommerce_App.Models.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\bin\Debug\net7.0\ECommerce_App.Models.pdb
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ECommerce_App.DataAccess.csproj.AssemblyReference.cache
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ECommerce_App.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ECommerce_App.DataAccess.AssemblyInfoInputs.cache
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ECommerce_App.DataAccess.AssemblyInfo.cs
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ECommerce_App.DataAccess.csproj.CoreCompileInputs.cache
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ECommerce_App.DataAccess.csproj.CopyComplete
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ECommerce_App.DataAccess.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\refint\ECommerce_App.DataAccess.dll
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ECommerce_App.DataAccess.pdb
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ECommerce_App.DataAccess.genruntimeconfig.cache
+D:\CV_Projects\MVC_Course_Udemy\ECommerce_WebApplication\ECommerce_App.DataAccess\obj\Debug\net7.0\ref\ECommerce_App.DataAccess.dll
