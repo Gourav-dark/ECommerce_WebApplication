@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\images\\product\\e796d8ea-470a-4dad-a67f-f2079163010d.jpg"
     },
     {
+      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
       "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

@@ -10,7 +10,7 @@ using System.Data;
 namespace ECommerce_App.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+    //[Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -71,13 +71,14 @@ namespace ECommerce_App.Areas.Admin.Controllers
                 if (obj.Product.Id == 0)
                 {
                     _unitOfWork.product.Add(obj.Product);
+                    TempData["success"] = "Product created Successfully.";
                 }
                 else
                 {
                     _unitOfWork.product.Update(obj.Product);
+                    TempData["success"] = "Company updated Successfully.";
                 }
                 _unitOfWork.Save();
-                TempData["success"] = "Product created Successfully.";
                 return RedirectToAction("index");
             }
             else
@@ -113,6 +114,7 @@ namespace ECommerce_App.Areas.Admin.Controllers
             }
             _unitOfWork.product.Remove(productToBeDeleted);
             _unitOfWork.Save();
+            TempData["success"] = "Deleted Successfully.";
             return Json(new { success = true, message = "Delete Successfully" });
         }
         #endregion
