@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -21,7 +22,7 @@ namespace ECommerce_App.Models
 
         public int? CompanyId{ get; set; }
         [ForeignKey("CompanyId")]
-        [validataNever]
+        [ValidateNever]
         public Company Company { get; set; }
     }
 }
