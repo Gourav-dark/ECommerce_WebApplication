@@ -8,11 +8,14 @@ namespace ECommerce_App.DataAccess
     public class ApplicationDbContext:IdentityDbContext<IdentityUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options){}
+
         public virtual DbSet<Category> Categories { get; set; }
         public virtual DbSet<Product> Products { get; set; }
         public virtual DbSet<ApplicationUser> ApplicationUsers { get; set; }
         public virtual DbSet<Company> Companies { get; set; }
         public virtual DbSet<ShoppingCart> ShoppingCarts { get; set; }
+        public virtual DbSet<OrderHeader> OrderHeaders { get; set; }
+        public virtual DbSet<OrderDetail> OrderDetails { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

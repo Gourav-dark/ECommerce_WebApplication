@@ -14,6 +14,8 @@ namespace ECommerce_App.DataAccess.Repository
         public IProductRepository product { get; private set; }
         public ICompanyRepository company { get; private set; }
         public IShoppingCartRepository shoppingCart { get; private set; }
+        public IOrderHeaderRepository orderHeader { get; private set; }
+        public IOrderDetailRepository orderDetail { get; private set; }
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
@@ -21,9 +23,9 @@ namespace ECommerce_App.DataAccess.Repository
             product = new ProductRepository(_db);
             company = new CompanyRepository(_db);
             shoppingCart=new ShoppingCartRepository(_db);
+            orderHeader = new OrderHeaderRepository(_db);
+            orderDetail = new OrderDetailRepository(_db);
         }
-
-
         public void Save()
         {
             _db.SaveChanges();
