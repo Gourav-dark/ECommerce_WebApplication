@@ -11,6 +11,7 @@ namespace ECommerce_App.DataAccess.Repository.IRepository
         ICategoryRepository category { get; }
         IProductRepository product { get; }
         ICompanyRepository company { get; }
+        IApplicationUserRepository applicationUser { get; }
         IShoppingCartRepository shoppingCart { get; }
         IOrderHeaderRepository orderHeader { get; }
         IOrderDetailRepository orderDetail { get; }

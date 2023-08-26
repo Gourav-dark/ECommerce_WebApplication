@@ -1,0 +1,19 @@
+﻿@model int
+@{
+    ViewData["Title"] = "Order Page";
+}
+﻿<div class="container row pt-4">
+    <div class="col-12 text-center">
+        <i class="bi bi-check-circle-fill text-success" style="font-size:5rem;"></i>
+        <h1 class="text-primary text-center">Order Placed Successfully!</h1>
+        Your Order Number is : @Model <br/><br/>
+    </div>
+    @*<div class="col-12 text-center" style="color:maroon">
+        <br/>
+        Your order has been placed successfully! <br/>
+    </div>*@
+    <div class="col-12 text-center">
+        <br/>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back To Home</a>
+    </div>
+</div>

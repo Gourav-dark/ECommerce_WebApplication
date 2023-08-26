@@ -24,7 +24,8 @@ namespace ECommerce_App.Models
         public DateTime PaymentDate { get; set; }
         //DateOnly DataTime
         public DateTime PaymentDueDate { get; set; }
-
+        //for Payment Method
+        public string? SessionId { get; set; }
         public string? PaymentIntentId { get; set; }
 
         [Required]
