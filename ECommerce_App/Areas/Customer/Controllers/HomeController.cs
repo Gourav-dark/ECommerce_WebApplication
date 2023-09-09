@@ -1,6 +1,8 @@
 ﻿using ECommerce_App.DataAccess.Repository.IRepository;
 using ECommerce_App.Models;
+using ECommerce_App.Utility;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Security.Claims;
@@ -20,6 +22,13 @@ namespace ECommerce_App.Areas.Customer.Controllers
         }
         public IActionResult Index()
         {
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+            if(claim != null)
+            {
+                HttpContext.Session.SetInt32(SD.SessionCart,
+                    _unitOfWork.shoppingCart.GetAll(u => u.ApplicationUserId == claim.Value).Count());
+            }
             IEnumerable<Product> productList=_unitOfWork.product.GetAll(includeProperties:"Category");
             return View(productList);
         }
@@ -47,13 +56,16 @@ namespace ECommerce_App.Areas.Customer.Controllers
                 //shopping cart exists
                 cartFromDb.Count += shoppingCart.Count;
                 _unitOfWork.shoppingCart.Update(cartFromDb);
+                _unitOfWork.Save();
             }
             else
             {
                 //add cart exists
                 _unitOfWork.shoppingCart.Add(shoppingCart);
+                _unitOfWork.Save();
+                HttpContext.Session.SetInt32(SD.SessionCart,
+                    _unitOfWork.shoppingCart.GetAll(u => u.ApplicationUserId == userId).Count());
             }
-            _unitOfWork.Save();
             return RedirectToAction(nameof(Index));
         }
         public IActionResult Privacy()

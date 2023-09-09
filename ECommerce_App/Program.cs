@@ -27,6 +27,13 @@ builder.Services.ConfigureApplicationCookie(options => {
     options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
 });
 
+//Add Session Management With Memory
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>{
+    options.IdleTimeout=TimeSpan.FromMinutes(100);
+    options.Cookie.HttpOnly=true;
+    options.Cookie.IsEssential=true;
+});
 
 //Add Services for Razor Pages for Identity User
 builder.Services.AddRazorPages();
@@ -53,6 +60,7 @@ StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey"
 app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
+app.UseSession();
 // Set default culture to Indian English (en-IN)
 var defaultCulture = new CultureInfo("en-IN");
 app.UseRequestLocalization(new RequestLocalizationOptions

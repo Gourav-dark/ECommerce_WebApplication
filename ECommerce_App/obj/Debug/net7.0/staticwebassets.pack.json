@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
+      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
       "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

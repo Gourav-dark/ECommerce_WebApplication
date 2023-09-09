@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/okUelhD95YBY77ccVrRmy2Ye6G8h7/w/Qx9PE7cMAk=",
+  "Hash": "Y4TXDawYfvEvnxMnlpalpLKmGoTY6bmWBme58XIcG54=",
   "Source": "ECommerce_App",
   "BasePath": "_content/ECommerce_App",
   "Mode": "Default",
@@ -1239,6 +1239,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\company.js"
+    },
+    {
+      "Identity": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\order.js",
+      "SourceId": "ECommerce_App",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\",
+      "BasePath": "_content/ECommerce_App",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\product.js",
