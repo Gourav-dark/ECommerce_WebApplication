@@ -1,287 +1,287 @@
 {
   "Files": [
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ECommerce_App.bundle.scp.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ECommerce_App.bundle.scp.css",
       "PackagePath": "staticwebassets\\ECommerce_App.bundle.scp.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\css\\site.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\favicon.ico",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\04216f3c-2655-4f7b-8f1c-e359afc51bfa.jpg",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\04216f3c-2655-4f7b-8f1c-e359afc51bfa.jpg",
       "PackagePath": "staticwebassets\\images\\product\\04216f3c-2655-4f7b-8f1c-e359afc51bfa.jpg"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\2f975fe3-fce2-453e-8ef3-98d92d164046.jpg",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\2f975fe3-fce2-453e-8ef3-98d92d164046.jpg",
       "PackagePath": "staticwebassets\\images\\product\\2f975fe3-fce2-453e-8ef3-98d92d164046.jpg"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\3e4f6da3-9392-4b97-958e-20c63c3ef976.jpeg",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\3e4f6da3-9392-4b97-958e-20c63c3ef976.jpeg",
       "PackagePath": "staticwebassets\\images\\product\\3e4f6da3-9392-4b97-958e-20c63c3ef976.jpeg"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\9d5abd10-63e8-4d1c-8bdd-16caf599a16b.jpeg",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\9d5abd10-63e8-4d1c-8bdd-16caf599a16b.jpeg",
       "PackagePath": "staticwebassets\\images\\product\\9d5abd10-63e8-4d1c-8bdd-16caf599a16b.jpeg"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\bac0e0a7-d66d-468a-bf0c-e4fc21ecfcd9.jpg",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\bac0e0a7-d66d-468a-bf0c-e4fc21ecfcd9.jpg",
       "PackagePath": "staticwebassets\\images\\product\\bac0e0a7-d66d-468a-bf0c-e4fc21ecfcd9.jpg"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\bcafd19c-5337-4a96-bc51-a9a347686ce3.jpg",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\bcafd19c-5337-4a96-bc51-a9a347686ce3.jpg",
       "PackagePath": "staticwebassets\\images\\product\\bcafd19c-5337-4a96-bc51-a9a347686ce3.jpg"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\e796d8ea-470a-4dad-a67f-f2079163010d.jpg",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\images\\product\\e796d8ea-470a-4dad-a67f-f2079163010d.jpg",
       "PackagePath": "staticwebassets\\images\\product\\e796d8ea-470a-4dad-a67f-f2079163010d.jpg"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\company.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\order.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\order.js",
       "PackagePath": "staticwebassets\\js\\order.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\product.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\site.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\CV_Projects\\MVC_Course_Udemy\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

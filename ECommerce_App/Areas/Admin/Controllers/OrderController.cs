@@ -128,6 +128,7 @@ namespace ECommerce_App.Areas.Admin.Controllers
                 CancelUrl = domain + $"admin/order/details?orderId={orderVM.OrderHeader.Id}",
                 LineItems = new List<SessionLineItemOptions>(),
                 Mode = "payment",
+                CustomerEmail = orderVM.OrderHeader.ApplicationUser.Email,
             };
 
             foreach (var item in orderVM.OrderDetails)
@@ -136,8 +137,8 @@ namespace ECommerce_App.Areas.Admin.Controllers
                 {
                     PriceData = new SessionLineItemPriceDataOptions
                     {
-                        UnitAmount = (long)(item.Price * 100), // $20.50 => 2050
-                        Currency = "inr",
+                        UnitAmount = (long)(item.Price * 100), // Rs.20.50 => 2050
+                        Currency = "usd",
                         ProductData = new SessionLineItemPriceDataProductDataOptions
                         {
                             Name = item.Product.Title

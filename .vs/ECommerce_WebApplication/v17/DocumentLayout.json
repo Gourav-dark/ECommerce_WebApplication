@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CV_Projects\\ECommerce_WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB5DC1C-43DD-44E6-8E76-BC901EE7818D}|ECommerce_App\\ECommerce_App.csproj|d:\\cv_projects\\ecommerce_webapplication\\ecommerce_app\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB5DC1C-43DD-44E6-8E76-BC901EE7818D}|ECommerce_App\\ECommerce_App.csproj|solutionrelative:ecommerce_app\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB5DC1C-43DD-44E6-8E76-BC901EE7818D}|ECommerce_App\\ECommerce_App.csproj|d:\\cv_projects\\ecommerce_webapplication\\ecommerce_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDB5DC1C-43DD-44E6-8E76-BC901EE7818D}|ECommerce_App\\ECommerce_App.csproj|solutionrelative:ecommerce_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ECommerce_App\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ECommerce_App\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T02:10:58.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce_App\\appsettings.json",
+              "ToolTip": "D:\\CV_Projects\\ECommerce_WebApplication\\ECommerce_App\\appsettings.json",
+              "RelativeToolTip": "ECommerce_App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-04T02:09:52.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
